@@ -11,7 +11,7 @@ public class BMIcalc
 		String str1="\nPlease enter your height:\n\tFeet: ";
 		String str2="\tInches: ";
 		String str3="Please enter your weight:\n\tPounds: ";
-		String str4="\nYour BMI is . . . ";
+		String str4="\nYour BMI is ... ";
 		String str5="\nRecommendation: ";
 		String type="";
 		double tracker=0;
